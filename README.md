@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Trishla Gautam  
+### I have worked with India largest bank, HDFC Limited in operations, credit and analytics
 
-<!--
-**Trishlag9/Trishlag9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently upskilling on **SQL, Python and Machine Learning** and loving it! 
+💬 Ask me about: SQL, Excel, Python, Tableau, Power BI  
+📬 Reach me: [gautamtrishla@gmail.com](mailto:your_email@example.com)  
+🚀 Would love to work in **FinTech** and **SaaS** space
 
-Here are some ideas to get you started:
+## 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/trishlagautam/)
+[![Notion](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion)](https://www.notion.so/My-Portfolio-1bdb3133aaf48080a6c3cf04f195302d?pvs=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+
+
