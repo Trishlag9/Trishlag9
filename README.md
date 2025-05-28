@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Trishla Gautam  
-### I have worked with India largest bank, HDFC Limited in operations, credit and analytics
+### I have worked with India's largest bank, HDFC Limited in operations, credit and analytics
 
 🌱 I’m currently upskilling on **SQL, Python and Machine Learning** and loving it! 
 💬 Ask me about: SQL, Excel, Python, Tableau, Power BI  
