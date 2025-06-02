@@ -8,7 +8,7 @@
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/trishlagautam/)
-[![Notion](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion)](https://www.notion.so/My-Portfolio-1bdb3133aaf48080a6c3cf04f195302d?pvs=4)
+[![Notion](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=notion)](https://www.notion.so/Hey-there-I-am-Trishla-1ecb3133aaf480fc8d6bea74086f58f7)
 
 ## 🛠️ Tools & Technologies:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
